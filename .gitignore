@@ -8,8 +8,8 @@ data/**/*.csv
 # Artifacts
 artifacts/*.joblib
 
-# Metrics
-metrics/*.json
-
 # Models
 models/*.keras
+
+# Metrics
+metrics/*.json
