@@ -15,8 +15,7 @@ metrics/*.json
 
 # MLflow
 mlruns
-mlartifacts
 
 # Project
-artifacts
-models
+artifacts/*
+models/*
