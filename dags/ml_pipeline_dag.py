@@ -1,14 +1,15 @@
 import yaml
+from pathlib import Path
 
 from airflow import DAG
 from airflow.operators.bash import BashOperator
 from airflow.operators.python import PythonOperator
-import os
 
-project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+project_root = Path(__file__).resolve().parents[1]
 
 def get_dvc_stages():
-    dvc_yaml_path = os.path.join(project_root, "dvc.yaml")
+    dvc_yaml_path = project_root / "dvc.yaml"
     with open(dvc_yaml_path) as f:
         dvc_config = yaml.safe_load(f)
     return list(dvc_config["stages"].keys())
