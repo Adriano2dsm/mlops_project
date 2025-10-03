@@ -1,4 +1,4 @@
-FROM apache/airflow:2.10.5-python3.12 # same versions the project uses
+FROM apache/airflow:2.10.5-python3.12
 
 USER root
 
