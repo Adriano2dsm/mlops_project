@@ -11,5 +11,5 @@ USER airflow
 
 WORKDIR /home/airflow/mlops_project
 
-RUN pip install -e .
+RUN pip install .
 RUN dvc init --no-scm
