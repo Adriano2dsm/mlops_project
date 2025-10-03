@@ -34,7 +34,7 @@ services:
       - AIRFLOW__CORE__LOAD_EXAMPLES=false
       - AIRFLOW__CORE__DAGS_FOLDER=/home/airflow/mlops_project/dags
       - DOCKER_HOST=tcp://dind:2375
-      - DOCKER_HUB_USERNAME=iaexpert
+      - DOCKER_HUB_USERNAME=${DOCKER_HUB_USERNAME}
       - DOCKER_HUB_TOKEN=${DOCKER_HUB_TOKEN}
       - DAGSHUB_USER_TOKEN=${DAGSHUB_USER_TOKEN}
     networks:
