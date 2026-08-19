@@ -1,0 +1,11 @@
+# Data
+data/**/*.csv
+
+# Artifacts
+artifacts/**/*.joblib
+
+# Models
+models/**/*.keras
+
+# Metrics
+metrics/**/*.json
