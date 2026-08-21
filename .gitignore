@@ -9,3 +9,24 @@ models/**/*.keras
 
 # Metrics
 metrics/**/*.json
+
+# Python
+*.egg-info/
+__pycache__/
+*.pyc
+
+# DVC
+.dvc/tmp/# Data
+data/**/*.csv
+
+# Artifacts
+artifacts/**/*.joblib
+
+# Models
+models/**/*.keras
+
+# Metrics
+metrics/**/*.json
+
+# DVC
+.dvc/tmp/

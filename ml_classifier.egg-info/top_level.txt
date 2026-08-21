@@ -1,6 +1,0 @@
-app
-artifacts
-data
-metrics
-models
-src
