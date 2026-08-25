@@ -1,0 +1,6 @@
+artifact_location: file:///home/adriano/PythonProjects/mlops_project/mlruns/431799428465407171
+creation_time: 1787658857373
+experiment_id: '431799428465407171'
+last_update_time: 1787658857373
+lifecycle_stage: active
+name: ml_classification

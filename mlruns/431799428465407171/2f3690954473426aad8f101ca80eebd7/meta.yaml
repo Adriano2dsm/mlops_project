@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/PythonProjects/mlops_project/mlruns/431799428465407171/2f3690954473426aad8f101ca80eebd7/artifacts
+end_time: 1787658902113
+entry_point_name: ''
+experiment_id: '431799428465407171'
+lifecycle_stage: active
+run_id: 2f3690954473426aad8f101ca80eebd7
+run_name: nervous-whale-452
+run_uuid: 2f3690954473426aad8f101ca80eebd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787658857479
+status: 3
+tags: []
+user_id: adriano
