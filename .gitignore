@@ -31,3 +31,7 @@ metrics/**/*.json
 # DVC
 .dvc/tmp/
 .dvc/cache/
+
+# Project
+.env
+.vscode/

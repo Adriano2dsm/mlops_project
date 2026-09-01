@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/PythonProjects/mlops_project/mlruns/431799428465407171/8fa4a7f8d2e6493aae877ca4f63a5a95/artifacts
+end_time: 1788256035917
+entry_point_name: ''
+experiment_id: '431799428465407171'
+lifecycle_stage: active
+run_id: 8fa4a7f8d2e6493aae877ca4f63a5a95
+run_name: tippy-hull
+run_uuid: 8fa4a7f8d2e6493aae877ca4f63a5a95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788255989450
+status: 3
+tags: []
+user_id: adriano

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/PythonProjects/mlops_project/mlruns/431799428465407171/42abdfd3f6944e43ac77f72b446a413e/artifacts
+end_time: 1788255787249
+entry_point_name: ''
+experiment_id: '431799428465407171'
+lifecycle_stage: active
+run_id: 42abdfd3f6944e43ac77f72b446a413e
+run_name: fortunate-vole-823
+run_uuid: 42abdfd3f6944e43ac77f72b446a413e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788255787189
+status: 3
+tags: []
+user_id: adriano

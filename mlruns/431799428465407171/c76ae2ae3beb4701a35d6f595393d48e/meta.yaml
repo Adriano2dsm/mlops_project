@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/PythonProjects/mlops_project/mlruns/431799428465407171/c76ae2ae3beb4701a35d6f595393d48e/artifacts
+end_time: 1788255973232
+entry_point_name: ''
+experiment_id: '431799428465407171'
+lifecycle_stage: active
+run_id: c76ae2ae3beb4701a35d6f595393d48e
+run_name: glued-tule
+run_uuid: c76ae2ae3beb4701a35d6f595393d48e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788255945575
+status: 3
+tags: []
+user_id: adriano

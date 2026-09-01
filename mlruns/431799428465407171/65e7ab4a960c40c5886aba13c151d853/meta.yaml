@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/PythonProjects/mlops_project/mlruns/431799428465407171/65e7ab4a960c40c5886aba13c151d853/artifacts
+end_time: 1787909594764
+entry_point_name: ''
+experiment_id: '431799428465407171'
+lifecycle_stage: active
+run_id: 65e7ab4a960c40c5886aba13c151d853
+run_name: skillful-mule-15
+run_uuid: 65e7ab4a960c40c5886aba13c151d853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787909560755
+status: 3
+tags: []
+user_id: adriano
